@@ -6,9 +6,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0001-two-sum) |
 | [0554-brick-wall](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0554-brick-wall) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0001-two-sum) |
 | [0554-brick-wall](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0554-brick-wall) |
 <!---LeetCode Topics End-->
