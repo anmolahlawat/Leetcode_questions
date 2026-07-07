@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0554-brick-wall](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0554-brick-wall) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0554-brick-wall](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0554-brick-wall) |
 ## String
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
