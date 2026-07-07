@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anmolahlawat/Leetcode_questions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
 |  |
